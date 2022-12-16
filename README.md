@@ -1,5 +1,6 @@
 # SpaceshipsWin64 #
-Online repo for testing of the Win64 desktop version of Dogelon Spaceships
+Online repo for testing of the Win64 desktop version of Dogelon Spaceships:
+[Google Drive folder link](https://drive.google.com/drive/u/1/folders/1as4Iw_iqZ526Jxi4OGWC08KLc8RCTjFw "G Drive")
 
 ## Spaceships, the game ##
 Somewhat stable Win64 desktop version of the game, not regularly updated. When we have a new feature we would like people to see and give feedback on, the exe is updated. Kinda like an open alpha, but without any promotion, quietly building till we have something cool to show.
